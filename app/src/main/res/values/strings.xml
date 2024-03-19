@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Malgorzata_Sliwinska_czw_9_30</string>
+    <string name="todaysRateTextView">Dzisiejsza wartość kursu: %1$f</string>
+    <string name="yesterdaysRateTextView">Wczorajsza wartość kursu: %1$f</string>
+    <string name="chartTitle">Kurs %s z ostatnich %d dni:</string>
+    <string name="goldButtonText">Cena złota</string>
+    <string name="currencyRatesButtonText">Kursy walut</string>
+    <string name="counterButtonText">Przelicznik cen walut</string>
+    <string name="nativeCurrencyTextView">PLN</string>
+    <string name="doConvertButton">Przelicz</string>
+    <string name="arrowUp">▲</string>
+    <string name="arrowDown">▼</string>
+    <string name="arrowFlat">►</string>
+    <string name="resultText">%1$.2f %2$s = %3$.2f %4$s</string>
+    <string name="todaysRateTextViewGold">Dzisiejsza wartość złota: %1$.4f</string>
+    <string name="chartTitleGold">Cena złota z ostatnich 30 dni:</string>
+</resources>
